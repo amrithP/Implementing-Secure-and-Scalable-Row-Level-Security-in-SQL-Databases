@@ -1,0 +1,2 @@
+# Implementing-Secure-and-Scalable-Row-Level-Security-in-SQL-Databases
+his project focuses on implementing Row-Level Security (RLS) in SQL databases to enforce fine-grained access control based on user roles and permissions. The study explores different RLS techniques, including filter predicates and security policies, to ensure data isolation and compliance with organizational security standards.
